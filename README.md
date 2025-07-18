@@ -1,6 +1,6 @@
 # Open Source Talent Acceleration Special Interest Group
 
-<img src="./website/static/img/2022.DEI_SIG_Horizontal.png" width="100">
+<img src="./website/static/img/2025.OSTA_SIG_Horizontal.png" width="100">
 
 ## FINOS Open Source Talent Acceleration SIG Overview
 
@@ -31,7 +31,7 @@ For 2025, we plan to launch a community event series for folks from underreprese
 
 ## Meetings
 
-Join our next [Open Source Talent Acceleration SIG meetings](https://dei.finos.org/docs/meetings) to contribute and collaborate on our expanded Vision! 
+Join our next [Open Source Talent Acceleration SIG meetings](https://talent.finos.org/docs/meetings) to contribute and collaborate on our expanded Vision! 
 
 ## Open Source Talent Acceleration SIG Goals
 

@@ -17,7 +17,7 @@ module.exports = {
   projectName: `FINOS Open Source Talent Acceleration Special Interest Group `,
   organizationName: 'FINOS',
   customFields: {
-    repoUrl: `https://github.com/finos/DEI-SIG`,
+    repoUrl: `https://github.com/finos/open-source-talent-acceleration`,
   },
   scripts: ['https://buttons.github.io/buttons.js', 'https://kit.fontawesome.com/b9d83db3bd.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css'],
@@ -90,7 +90,7 @@ module.exports = {
         docs: {
           path: '../docs',
           editUrl:
-            'https://github.com/finos/DEI-SIG/edit/main/website/',
+            'https://github.com/finos/open-source-talent-acceleration/edit/main/website/',
           sidebarPath: require.resolve('./sidebars.js')
         },
         theme: {

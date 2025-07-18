@@ -24,7 +24,7 @@ export const features = [
         title: <>Best Practices</>,
         icon: 'fa-cubes',
         description: (
-            <>Get familiar with the best practices toolkits for DEI</>
+            <>Get familiar with the best practices toolkits for Talent Acceleration</>
         ),
         about: {
             title: <>Get to the Toolkits!</>,
