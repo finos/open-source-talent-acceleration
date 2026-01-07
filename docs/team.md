@@ -5,7 +5,7 @@ title: Open Source Talent Acceleration Special Interest Group Team
 
 The Open Source Talent Acceleration Special Interest Group (Talent SIG) is dedicated to helping financial services firms advance their Open Source Talent programs.
 
-## Diversity Equity & Inclusion SIG Vision
+## Open Source Talent Acceleration SIG Vision
 
 To demonstrably improve diveristy of FINOS through increased participation of underrepresented people on the Board, among FINOS team members and the FINOS community. Further, to create expanded SIG leadership and contributor opportunities; agree on priorities to develop, advance, and retain diverse talent; and ensure FINOS projects are inclusive and events are diverse.
 
@@ -45,4 +45,5 @@ The Open Source Talent Acceleration Special Interest Group (Talent SIG) co-chair
 #### Other Roles
 
 - **FINOS Lead:** Rimma Perelmuter (Rimma@finos.org)
+
 - **TOC Sponsor:** Peter Smulovics (@psmulovics)
