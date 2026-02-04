@@ -20,10 +20,7 @@ For 2025, we plan to launch a community event series for folks from underreprese
 - Best practices
 - Networking for driving inclusion and talent development in the FINOS community.
 
-## Co-Chairs (2025)
-- **Rita Chaturvedi** - Morgan Stanley (rita.chaturvedi@morganstanley.com)
-- **Sérgio Bettencourt** - Citi (sergio.bettencourt@citi.com)
-- **Paula Paul** - Greyshore Associates (@paulapaul paula@greyshore.com)
+## Co-Chairs (2026)
 
 **FINOS Lead:** Rimma Perelmuter (Rimma@finos.org)
 
