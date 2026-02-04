@@ -34,41 +34,13 @@ function Home() {
         )}
         <div className="container">
           <h1>Getting Started</h1>
-          <p>Welcome to the Open Source Talent Acceleration (OSTA) SIG portal of the
-FINOS - an independent, non-profit membership organization
-whose mission is unite the financial services industry to
-collaboratively build open technologies and standards that
-enhance profitability, improve resilience, and accelerate
-innovation.</p>
+          <p>Welcome to the Open Source Talent Acceleration portal of the Fintech Open Source Foundation (FINOS). At FINOS, we believe that innovation thrives in an environment where diverse perspectives are celebrated, equitable opportunities are provided, and inclusive practices are embedded into the fabric of our community. Our mission is not only to advance open source collaboration in financial services but also to ensure that every voice is heard, valued, and empowered.</p>
 
-          <p>The financial services industry faces significant challenges in attracting and retaining broad
-talent, especially in the open-source domain. By focusing on talent development and identifying
-best practices/upskilling initiatives and events, we aim to provide actionable pathways for
-newcomers and mid-career professionals to nurture and drive continuous growth; bridge the skill
-gap and optimize the impact of open-source collaboration for FSIs.</p>
+          <p>These initiatives at FINOS are designed to break barriers, foster meaningful connections, and create a safe space where individuals from all backgrounds can contribute and excel. Whether you're a seasoned contributor or a newcomer to the open source community, we are committed to supporting your journey and amplifying your impact.</p>
 
-          <p>Our mission is to
- Contribute to FINOS’ Open Source Readiness (OSR) best practices for creating nurturing
-open-source environments and collaborations which improve retention and results
- Organize upskilling events/’on-ramping’ workshops for newcomers and mid-career
-professionals in concert with FINOS/Linux Foundation Training and Certification 
- Provide networking opportunities to drive professional connections and continuous
-growth  
- Aid FINOS members and the FS Community in attracting &amp; retaining talent to accelerate
-their open-source priorities
- Ensure that advancing accessibility and broad talent development are key pillars for all
-activities undertaken by the SIG</p>
+          <p>This platform serves as a hub for our Talent efforts, showcasing our policies, programs, and resources aimed at building a more inclusive ecosystem. Here, you'll find stories of success, opportunities for engagement, and actionable steps to drive change in your own circles.</p>
 
-          <p>By creating actionable pathways and amplifying talent-focused collaboration, the
-OSTA SIG helps bridge critical skills gaps and unlock the full potential of open-
-source in financial services.
-Whether you&#39;re a seasoned contributor or a newcomer to the open-source community, the
-OSTA SIG is here to support you and your company’s talent development journey.
-Join us in building programs, contributing to best practices, and collaborate with a
-vibrant community committed to advancing inclusive, high-impact open source FS
-ecosystems.
-�� Join Us in Accelerating Open Source Talent!
-Join our Monthly Calls here</p>
+          <p>Join us as we work together to redefine collaboration, innovation, and equity in the open source financial technology space. Together, we can create a future where diversity is not just embraced but celebrated as a cornerstone of progress.</p>
 
 
         </div>
