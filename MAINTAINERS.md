@@ -4,11 +4,11 @@ This file lists the maintainers of this repository.
 
 ## Current maintainers
 
-| GitHub Username | Name | Organization | Email |
-|----------------|------|--------------|-------|
-| @PaulaPaul | Paula | Greyshore Associates | *please add email* |
-| @eteridvalishvili | *please add name* | *please add organization* | *please add email* |
-| @psmulovics | Peter Smulovics | Morgan Stanley | *please add email* |
+| GitHub Username | Name | Organization | Email (optional) |
+|----------------|------|--------------|------------------|
+| @PaulaPaul | Paula | Greyshore Associates |  |
+| @eteridvalishvili | *please add name* | *please add organization* |  |
+| @psmulovics | Peter Smulovics | Morgan Stanley |  |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
